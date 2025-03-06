@@ -11,8 +11,8 @@ I'm a **software engineer & aspiring quant**, passionate about problem-solving, 
 💡 Currently exploring machine learning model to impute missing financial data and impact of monetary policies on bank fragilities.
 
 ## 📈 GitHub Stats  
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=your-github-username&show_icons=true&theme=dark)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=your-github-username&layout=compact&theme=dark)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=aadideshpande&show_icons=true&theme=dark)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=aadideshpande&layout=compact&theme=dark)
 
 ## 📫 Let's Connect!  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/aadi-deshpande-b13045166/)  
