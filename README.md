@@ -4,7 +4,7 @@ I'm a **software engineer & aspiring quant**, passionate about problem-solving, 
 
 ## 🚀 About Me  
 🔹 **Tech Stack**: Python, C++, Java, Spring Boot, Apache Kafka, React, SQL  
-🔹 **Interests**: Quantitative finance, algorithmic trading, machine learning, software development
+🔹 **Interests**: Quantitative finance, algorithmic trading, machine learning, software development  
 🔹 **Experience**: Software engineering at a big bank, working on microservices, leader-election mechanisms, and distributed systems  
 🔹 **Education**: MS Financial Mathematics @ University of Chicago (Graduating Dec 2025)  
 
